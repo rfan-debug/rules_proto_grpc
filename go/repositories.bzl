@@ -16,7 +16,7 @@ def go_repos(**kwargs):  # buildifier: disable=function-docstring
         name = "org_golang_google_grpc",
         build_file_proto_mode = "disable",
         importpath = "google.golang.org/grpc",
-        sum = "h1:XT2/MFpuPFsEX2fWh3YQtHkZ+WYZFQRfaUgLZYj/p6A=",
+        sum = "h1:9n77onPX5F3qfFCqjy9dhn8PbNQsIKeVU04J9G7umt8=",
         version = "v{}".format(GRPC_VERSION),
     )
 

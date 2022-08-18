@@ -1,2 +1,7 @@
 # Don't include test child workspaces
 test_workspaces
+.git
+.ijwb
+.build-disk-cache
+venv
+

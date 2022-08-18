@@ -28,6 +28,6 @@ def scala_proto_library(name, **kwargs):  # buildifier: disable=function-docstri
 
 PROTO_DEPS = [
     "@rules_proto_grpc_scala_maven//:com_google_protobuf_protobuf_java",
-    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_lenses_2_12",
-    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_scalapb_runtime_2_12",
+    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_lenses_2_13",
+    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_scalapb_runtime_2_13",
 ]

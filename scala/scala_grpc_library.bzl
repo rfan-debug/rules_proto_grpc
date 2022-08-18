@@ -32,7 +32,7 @@ GRPC_DEPS = [
     "@rules_proto_grpc_scala_maven//:io_grpc_grpc_protobuf",
     "@rules_proto_grpc_scala_maven//:io_grpc_grpc_stub",
     "@rules_proto_grpc_scala_maven//:com_google_protobuf_protobuf_java",
-    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_lenses_2_12",
-    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_scalapb_runtime_grpc_2_12",
-    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_scalapb_runtime_2_12",
+    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_lenses_2_13",
+    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_scalapb_runtime_grpc_2_13",
+    "@rules_proto_grpc_scala_maven//:com_thesamet_scalapb_scalapb_runtime_2_13",
 ]

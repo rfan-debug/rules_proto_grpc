@@ -13,3 +13,14 @@ js/requirements/yarn-error.log
 .vscode
 
 /docs/build
+
+
+# Generated code and compiled targets
+.idea/
+.ijwb/
+bazel-bin
+bazel-aqueduct
+bazel-out
+bazel-testlogs
+build_explanation.log
+test_explanation.log
